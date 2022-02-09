@@ -1,0 +1,12 @@
+.special {
+    color: purple;
+}
+p {
+    font-style: italic;
+    text-align: center;
+}
+#important-information {
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
